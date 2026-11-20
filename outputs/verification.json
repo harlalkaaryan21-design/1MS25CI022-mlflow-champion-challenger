@@ -1,0 +1,18 @@
+{
+  "checked_at_utc": "2026-11-19T11:46:35.133392+00:00",
+  "status": "passed",
+  "checks": [
+    "A: inputs, all classification metrics, latency arithmetic, parameters, artifacts, pinned revision and full model replay passed",
+    "B: inputs, all classification metrics, latency arithmetic, parameters, artifacts, pinned revision and full model replay passed",
+    "Decision and both registry aliases verified",
+    "All fourteen lab transcripts present",
+    "Eight new-data predictions saved",
+    "Student identity verified in live MLflow tags",
+    "Both supplied quizzes have 15 completed responses with explanations"
+  ],
+  "remaining_student_actions": [
+    "Fill course title and course code on the cover page",
+    "Submit the public GitHub repository link on the LMS and keep the receipt",
+    "Review implementation and quiz explanations for viva"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "checked_at_utc": "2026-11-19T12:03:51.228121+00:00",
+  "status": "passed",
+  "renderer": "DOCX content and layout mapped to local HTML; headless Microsoft Edge PDF; PyMuPDF page rasterization",
+  "documents": {
+    "Completed_Lab_Record.docx": {
+      "sha256": "15be125778e3487d822c8251e213bef74e5cf585ed228aeac52d2c53cf61b4f3",
+      "pages": 23
+    },
+    "Completed_Lab_Record.pdf": {
+      "sha256": "4a748c0a46b797ecb7226672f5ba1761fcaf057f975c7bdb3c43c4c044ab8526",
+      "pages": 23
+    },
+    "Completed_Quiz_Answers.docx": {
+      "sha256": "21936745ebe79b1cc1251fa8356cd6e2fe0bd5020faeeb89231c94eb97d5be60",
+      "pages": 2
+    },
+    "Completed_Quiz_Answers.pdf": {
+      "sha256": "225a5e1335ac75a089dd82f10d7fe1227e6371be98ca1c6e8fb56b4379084cee",
+      "pages": 2
+    }
+  }
+}

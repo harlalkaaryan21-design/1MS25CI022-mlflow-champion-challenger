@@ -1,0 +1,17 @@
+{
+  "student": "Aryan Harlalka",
+  "usn": "1MS25CI022",
+  "section": "A",
+  "course_details": "Blank fields on the document cover; official title/code not supplied",
+  "github_url": null,
+  "github_visibility": "not specified in this copy",
+  "github_status": "Repository publication status is not associated with this student copy",
+  "lms_status": "Student to submit their repository link on the LMS and keep the receipt",
+  "instructor_access": "Not specified",
+  "quizzes": "Both supplied quizzes completed with explanations; no instructor score claimed",
+  "native_terminal_screenshot": "Captured 2026-11-19 from a native Windows console during a fresh-clone re-execution; output identical to outputs/prediction_terminal.txt",
+  "final_local_review_date": "2026-11-19",
+  "local_package": "Prepared locally; see Submission.zip and SUBMISSION_GUIDE.md",
+  "documents": "23-page lab record and 2-page quiz sheet; DOCX plus visually reviewed PDF copies",
+  "validation": "Fresh clone on 2026-11-19 reproduced all classification metrics, predictions, aliases and the inference transcript exactly; 18 tests, verify_submission.py and all 14 lab audits passed"
+}
